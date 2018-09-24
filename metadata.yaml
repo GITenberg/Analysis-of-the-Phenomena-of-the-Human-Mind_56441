@@ -1,0 +1,46 @@
+_repo: Analysis-of-the-Phenomena-of-the-Human-Mind_56441
+_version: 0.0.1
+contributor:
+  commentators:
+  - agent_name: Findlater, Andrew
+    gutenberg_agent_id: '48847'
+    url: http://www.gutenberg.org/2009/agents/48847
+  - &id001
+    agent_name: Mill, John Stuart
+    alias: Mill, J. S. (John Stuart)
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '1705'
+    url: http://www.gutenberg.org/2009/agents/1705
+    wikipedia: http://en.wikipedia.org/wiki/John_Stuart_Mill
+  - agent_name: Bain, Alexander
+    birthdate: 1818
+    deathdate: 1903
+    gutenberg_agent_id: '4709'
+    url: http://www.gutenberg.org/2009/agents/4709
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Bain
+  - agent_name: Grote, George
+    birthdate: 1794
+    deathdate: 1871
+    gutenberg_agent_id: '4168'
+    url: http://www.gutenberg.org/2009/agents/4168
+    wikipedia: http://en.wikipedia.org/wiki/George_Grote
+creator:
+  author:
+    agent_name: Mill, James
+    gutenberg_agent_id: '48846'
+    url: http://www.gutenberg.org/2009/agents/48846
+  editor: *id001
+description: ''
+gutenberg_issued: '2018-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Analysis of the Phenomena of the Human Mind
+url: http://www.gutenberg.org/ebooks/56441
