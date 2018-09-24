@@ -1,5 +1,5 @@
 _repo: Analysis-of-the-Phenomena-of-the-Human-Mind_56441
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentators:
   - agent_name: Findlater, Andrew
@@ -25,6 +25,9 @@ contributor:
     gutenberg_agent_id: '4168'
     url: http://www.gutenberg.org/2009/agents/4168
     wikipedia: http://en.wikipedia.org/wiki/George_Grote
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mill, James
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48846
   editor: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56441#Analysis-of-the-Phenomena-of-the-Human-Mind
 gutenberg_issued: '2018-01-27'
 gutenberg_type: Text
 identifiers:
